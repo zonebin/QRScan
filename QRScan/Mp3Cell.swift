@@ -2,7 +2,7 @@
 //  Mp3Cell.swift
 //  QRScan
 //
-//  Created by 张朝辉 on 16/7/25.
+//  Created by zonebin on 16/7/25.
 //  Copyright © 2016年 zonebin. All rights reserved.
 //
 
